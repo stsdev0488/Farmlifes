@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "210974049046",
+    "firebase_url": "https://farmlifes-dev.firebaseio.com",
+    "project_id": "farmlifes-dev",
+    "storage_bucket": "farmlifes-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210974049046:android:f70a8d864850c230f48637",
+        "android_client_info": {
+          "package_name": "com.farmlifes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210974049046-v5c0l7rlelgg2p52immu70kq401oqopb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-0LZ632YlB-vWDQPhD2a7Lb8i9fJ4zH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210974049046-v5c0l7rlelgg2p52immu70kq401oqopb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,254 @@
+{
+    "Common": {
+        "abort": "Abort",
+        "save": "Save",
+        "address": "Address",
+        "email": "Email",
+        "writeAComment": "Write a comment",
+        "sendMessage": "send message",
+        "map": "Map",
+        "subscribe": "subscribe",
+        "unsubscribed": "unsubscribed",
+        "subscribed": "subscribed",
+        "subscriber": "subscriber",
+        "subscribers": "subscribers",
+        "member": "Member",
+        "members": "Members",
+        "readMore": "read more",
+        "hide": "hide",
+        "share": "Share",
+        "shareAPost": "Share a post",
+        "createAPost": "Create a post",
+        "post": "post",
+        "farms": "Farms",
+        "follow": "Follow",
+        "unfollow": "Unfollow",
+        "delete": "Delete",
+        "forward": "forward",
+        "success": "Success",
+        "error": "error"
+    },
+    "EditUserProfile": {
+        "editProfile": "Edit profile",
+        "first_name": "First name",
+        "last_name": "Last Name",
+        "dateOfBirth": "date of birth",
+        "gender": "gender",
+        "male": "male",
+        "female": "female",
+        "other": "other",
+        "description": "Description",
+        "confirm": "confirm",
+        "yourEmailAddressIsNotConfirmed": "Your email address is not confirmed",
+        "newPassword": "New password",
+        "newPasswordConfirmation": "New password confirmation",
+        "currentPassword": "Current password",
+        "pleaseEnterAValidBirthDate": "Please enter a valid birth date",
+        "pleaseEnterAValidBirthMonth": "Please enter a valid birth month",
+        "pleaseEnterAValidBirthYear": "Please enter a valid birth year",
+        "pleaseEnterYourFirstName": "Please enter your first name",
+        "pleaseEnterYourLastName": "Please enter your last name",
+        "passwordConfirmationNotMatching": "Password confirmation not matching",
+        "pleaseEnterYourCurrentPassword": "Please enter your current password",
+        "profileEdited": "Profile edited"
+    },
+    "EditFarmProfile": {
+        "editFarm": "Edit farm",
+        "nameOfYourFarm": "Name of your farm",
+        "areaInHa": "Area in ha",
+        "categorie": "Categorie",
+        "description": "Description",
+        "8Members": "8 Members",
+        "createFarm": "Create farm",
+        "farmEdited": "Farm edited",
+        "farmCreated": "Farm created",
+        "pleaseSelectACategory": "Please select a category"
+    },
+    "Login": {
+        "login_button": "Login",
+        "emailInput": "Email",
+        "passwordInput": "Password",
+        "forgotPasswordText": "Forgot password",
+        "createANewAccount": "Create a new account",
+        "signIn": "Sign in",
+        "pleaseEnterYourEmail": "Please enter your email",
+        "pleaseEnterYourPassword": "Please enter your password",
+        "invalidEmail": "Invalid email",
+        "or": "or"
+    },
+    "ZipCode": {
+        "header": "farmlifes connects regionally",
+        "question": "what is your postal code?",
+        "enterZipCode1": "Enter your zip code to keep content",
+        "enterZipCode2": "to see your surroundings",
+        "zipCodeCantBeEmpty": "ZipCode can't be empty",
+        "minimumOfFourCharacters": "Minimum of four characters",
+        "invalidZipCode": "Invalid Zip Code"
+    },
+    "NameReg": {
+        "question": "What's your name?",
+        "name": "Name",
+        "surName": "Surname",
+        "nameCantBeEmpty": "Name can't be empty",
+        "surnameCantBeEmpty": "Surname can't be empty"
+    },
+    "PasswordReg": {
+        "header": "create a password",
+        "password": "Password",
+        "validation": "The password must be at least off 8 characters exist",
+        "minimumOf8Characters": "minimum of 8 characters"
+    },
+    "FinishReg": {
+        "header": "Finish registration",
+        "body1": "By tapping on register, you agree our ",
+        "body2": "terms of use.",
+        "body3": "In our ",
+        "body4": "Data policy",
+        "body5": " tells you how your data is capture",
+        "body6": "use and share ",
+        "body7": "Our cookie Policy",
+        "body8": " explains how we use",
+        "body9": "cookies and similar technologies. Farmflies sends ",
+        "body10": "you possible notifications via SMS you can unsubscribe at any time.",
+        "register": "Register"
+    },
+    "EmailReg": {
+        "question": "What is your email address?",
+        "instruction": "You use this e-mail address when registering and if you ever have your password need to reset.",
+        "pleaseEnterYourEmail": "Please enter your email",
+        "emailNotValid": "Email not valid"
+    },
+    "DOBReg": {
+        "question": "What is your date of birth?",
+        "validation": "You must be at least 13 years old."
+    },
+    "OnboardingBottomView": {
+        "question": "you already have an account? "
+    },
+    "Feeds": {
+        "postButton": "post",
+        "galleryButton": "gallery",
+        "follow": "follow",
+        "suggestionsForYou": "suggestion for you",
+        "noSuggestionsText": "No Suggestion at the moment",
+        "likeText": "Like",
+        "commentText": "Comment",
+        "shareText": "Share",
+        "commentsText": "Comments",
+        "sharesText": "shares",
+        "likesText": "likes",
+        "oneCommentText": "Comment"
+    },
+    "Drawer": {
+        "viewProfile": "View Profile",
+        "marketplace": "MarketPlace",
+        "mapOfFarms": "Map of Farms",
+        "video": "Video",
+        "forum": "Forum",
+        "help": "Help",
+        "informations": "Informations",
+        "logout": "Logout",
+        "news": "News",
+        "createFarmProfile": "Create farm profile",
+        "farmMembership": "farm membership"
+    },
+    "CreatePost": {
+        "publishAsText": "Publish as:",
+        "normalPost": " Normal Post",
+        "questionText": "Question",
+        "helpText": "Help",
+        "addTextToPost": "Add something to your Post",
+        "normalPostText": "What are you doing now?",
+        "questionPostText": "What is your question about?",
+        "helpPostText": "Where do you need help?",
+        "gallery": "gallery"
+    },
+    "SharePost": {
+        "publishAsText": "Publish as:",
+        "normalPostText": "What are you doing now?"
+    },
+    "Notifications": {
+        "farm_post_commented": "hat deinen Hof-Beitrag kommentiert:",
+        "farm_post_liked": "gefällt dein Hof-Beitrag.",
+        "farm_post_shared": "hat deinen Hof-Beitrag geteilt.",
+        "article_liked": "gefällt dein Artikel.",
+        "user_post_shared": "hat deinen Beitrag geteilt.",
+        "article_shared": "hat deinen Artikel geteilt.",
+        "farmtour_shared": "hat deinen Hofrundgang geteilt.",
+        "farm_title_image_shared": "hat dein Hof Profilbild geteilt.",
+        "user_post_liked": "gefällt dein Beitrag.",
+        "farm_title_image_liked": "gefällt dein Hof Profilbild.",
+        "farmtour_liked": "gefällt dein Hofrundgang.",
+        "user_post_commented": "commented on your post:"
+    },
+    "News": {
+        "newsHeaderText": "Was Gibt's Neues aus der Welt der Landwirtschaft? Hier halten wir dich auf dem Laufenden!"
+    },
+    "Search": {
+        "typeToSearch": "Type to search...",
+        "typeSomethingToSearch": "Type something to search...",
+        "nothingFound": "Nothing found",
+        "otherProfiles": "Other profiles"
+    },
+    "FindPeople": {
+        "peopleAndFarmsNearYou": "People and farms near you"
+    },
+    "Chat": {
+        "newsFrom": "News from",
+        "noActiveConversations": "No active conversations",
+        "writeAMessage": "Write a message..."
+    },
+    "UserProfile": {
+        "postsCount": "%{postsCount} posts",
+        "infos": "infos"
+    },
+    "Misc": {
+        "findPeople": "find people"
+    },
+    "ProfilePicturesEdit": {
+        "changeProfilePicture": "Change profile picture",
+        "changeCoverPicture": "Change cover picture",
+        "selectProfilePicture": "Select profile picture",
+        "selectCoverPicture": "Select cover picture",
+        "takePhoto": "Take photo",
+        "chooseFromLibrary": "Choose from library"
+    },
+    "Error": {
+        "error": "Error",
+        "pleaseTryAgain": "Please try again",
+        "wrongEmailOrPassword": "Wrong email or password, please try again"
+    },
+    "Post": {
+        "nobodyHasLikedThisPost": "Nobody has liked this post",
+        "nobodyHasSharedThisPost": "Nobody has shared this post",
+        "nobodyHasCommentedOnThisPost": "Nobody has commented on this post",
+        "question": "question",
+        "help": "help",
+        "areYouSureYouWantToRemoveThisPost": "Are you sure you want to remove this post?",
+        "deletePost": "delete post",
+        "cancel": "cancel",
+        "postDeleted": "Post deleted"
+    },
+    "Farm": {
+        "makeAnInquiry": "make an inquiry",
+        "deleteInquiry": "delete inquiry"
+    },
+    "FarmMembership": {
+        "delete": "delete",
+        "accept": "accept",
+        "reject": "reject"
+    },
+    "FarmCategories": {
+        "dairy": "Dairy",
+        "meat_breeding": "Meat breeding",
+        "sheep_and_goats": "Sheep and goats",
+        "horses": "Horses",
+        "field": "Field",
+        "fruit": "Fruit",
+        "vegetables": "Vegetables",
+        "wine": "Wine",
+        "pigs": "Pigs",
+        "poultry": "Poultry",
+        "other": "Other"
+    }
+}

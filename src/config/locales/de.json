@@ -1,0 +1,254 @@
+{
+    "Common": {
+        "abort": "Abbrechen",
+        "save": "Speichern",
+        "address": "Adresse",
+        "email": "E-Mail",
+        "writeAComment": "Schreib einen Kommentar...",
+        "sendMessage": "schreiben",
+        "map": "Karte",
+        "subscribe": "Folgen",
+        "unsubscribed": "Abo beenden",
+        "subscribed": "abonniert",
+        "subscriber": "Abonnent",
+        "subscribers": "Abonnenten",
+        "member": "Mitglied",
+        "members": "Mitglieder",
+        "readMore": "Mehr erfahren",
+        "hide": "weniger",
+        "share": "Teilen",
+        "shareAPost": "Beitrag teilen",
+        "createAPost": "Beitrag erstellen",
+        "post": "Posten",
+        "farms": "Höfe",
+        "follow": "Folgen",
+        "unfollow": "Folgen",
+        "delete": "Löschen",
+        "forward": "Weiter",
+        "success": "erfolgreich",
+        "error": "Fehler"
+    },
+    "EditUserProfile": {
+        "editProfile": "Profil bearbeiten",
+        "first_name": "Vorname",
+        "last_name": "Nachname",
+        "dateOfBirth": "Geburtstag",
+        "gender": "Geschlecht",
+        "male": "männlich",
+        "female": "weiblich",
+        "other": "diverse",
+        "description": "Beschreibung",
+        "confirm": "bestätigen",
+        "yourEmailAddressIsNotConfirmed": "Deine E-Mail Adresse ist noch nicht bestätigt",
+        "newPassword": "Neues Passwort",
+        "newPasswordConfirmation": "Neues Passwort bestätigen",
+        "currentPassword": "Aktuelles Passwort",
+        "pleaseEnterAValidBirthDate": "Bitte gültiges Geburtsdatum eintragen",
+        "pleaseEnterAValidBirthMonth": "Bitte gültiges Geburtsmonat eintragen",
+        "pleaseEnterAValidBirthYear": "Bitte gültiges Geburtsjahr eintragen",
+        "pleaseEnterYourFirstName": "Bitte Vornamen eintragen",
+        "pleaseEnterYourLastName": "Bitte Nachnamen eintragen",
+        "passwordConfirmationNotMatching": "Passwörter stimmen nicht überein",
+        "pleaseEnterYourCurrentPassword": "Bitte trage dein aktuelles Passwort ein",
+        "profileEdited": "Profil bearbeitet"
+    },
+    "EditFarmProfile": {
+        "editFarm": "Hof bearbeiten",
+        "nameOfYourFarm": "Hofname",
+        "areaInHa": "Fläche in ha",
+        "categorie": "Kategorie",
+        "description": "Beschreibung",
+        "8Members": "Mitglieder",
+        "createFarm": "Hofprofil erstellen",
+        "farmEdited": "Hofprofil bearbeitet",
+        "farmCreated": "Hofprofil erstellt",
+        "pleaseSelectACategory": "Kategorie auswählen"
+    },
+    "Login": {
+        "login_button": "Login",
+        "emailInput": "Email",
+        "passwordInput": "Passwort",
+        "forgotPasswordText": "Passwort vergessen",
+        "createANewAccount": "Neues Konto erstellen",
+        "signIn": "Anmelden",
+        "pleaseEnterYourEmail": "Bitte Email eintragen",
+        "pleaseEnterYourPassword": "Bitte Passwort eintragen",
+        "invalidEmail": "Email Adresse ist nicht vorhanden",
+        "or": "oder"
+    },
+    "ZipCode": {
+        "header": "farmlifes vernetzt regional",
+        "question": "Wie lautet deine Postleitzahl?",
+        "enterZipCode1": "Trage deine Postleitzahl ein um dich zu vernetzten",
+        "enterZipCode2": "und Personen und Betriebe in deiner Nähe zu finden",
+        "zipCodeCantBeEmpty": "Postleitzahl eintragen",
+        "minimumOfFourCharacters": "mindestens 4 Zeichen",
+        "invalidZipCode": "gültige Postleitzahl eintragen"
+    },
+    "NameReg": {
+        "question": "Wie ist dein Name?",
+        "name": "Vorname",
+        "surName": "Nachname",
+        "nameCantBeEmpty": "Vornamen eintragen",
+        "surnameCantBeEmpty": "Nachnamen eintragen"
+    },
+    "PasswordReg": {
+        "header": "Erstelle ein Passwort",
+        "password": "Passwort",
+        "validation": "Dein Passwort muss mindestens 8 Zeichen lang sein",
+        "minimumOf8Characters": "mindestens 8 Zeichen"
+    },
+    "FinishReg": {
+        "header": "Registrierung fertigstellen",
+        "body1": "Indem du auf \"Registrieren\" tippst, stimmst du unseren",
+        "body2": "Nutzungsbedingungen zu.",
+        "body3": "In unserer",
+        "body4": " Datenschutzrichtlinie ",
+        "body5": "erfährst du, wie wir deine",
+        "body6": "Daten erfassen, verwenden und teilen.",
+        "body7": "Unsere Cookie- Richtlinie",
+        "body8": " erklärt, wie wir",
+        "body9": "Cookies und ähnliche Technologien verwenden. Farmlifes schickt dir",
+        "body10": "eventuell Benachrichtigungen per SMS, die du jederzeit abbestellen kannst.",
+        "register": "Registrieren"
+    },
+    "EmailReg": {
+        "question": "Wie lautet deine Email Adresse?",
+        "instruction": "Du verwendest deine Email Adresse bei der Anmeldung und für den Fall, dass du jemals dein Passwort zurücksetzten musst.",
+        "pleaseEnterYourEmail": "Bitte Email Adresse eintragen",
+        "emailNotValid": "Email Adresse ist ungültig"
+    },
+    "DOBReg": {
+        "question": "Wie ist dein Geburtsdatum?",
+        "validation": "Du musst mindestens 13 Jahre alt sein."
+    },
+    "OnboardingBottomView": {
+        "question": "Du hast bereits ein Konto?"
+    },
+    "Feeds": {
+        "postButton": "Beitrag",
+        "galleryButton": "Bilder",
+        "follow": "Folgen",
+        "suggestionsForYou": "Vorschläge für dich",
+        "noSuggestionsText": "Keine Vorschläge verfügbar",
+        "likeText": "Like",
+        "commentText": "Kommentieren",
+        "shareText": "Teilen",
+        "commentsText": "Kommentare",
+        "sharesText": "mal geteilt",
+        "likesText": "Likes",
+        "oneCommentText": "Kommentar"
+    },
+    "Drawer": {
+        "viewProfile": "Profil ansehen",
+        "marketplace": "Marktplatz",
+        "mapOfFarms": "Farm Maps",
+        "video": "Videos",
+        "forum": "Forum",
+        "help": "Sofort Hilfe",
+        "informations": "Informationen",
+        "logout": "Abmelden",
+        "news": "News",
+        "createFarmProfile": "Hofprofil erstellen",
+        "farmMembership": "Hof Mitgliedschaft"
+    },
+    "CreatePost": {
+        "publishAsText": "Veröffentlichen als:",
+        "normalPost": " Beitrag",
+        "questionText": "Frage",
+        "helpText": "Sofort Hilfe",
+        "addTextToPost": "Füge etwas zu deinem Beitrag hinzu",
+        "normalPostText": "Was machst du gerade?",
+        "questionPostText": "Wie lautet deine Frage?",
+        "helpPostText": "Wobei brauchst du Hilfe?",
+        "gallery": "Galerie"
+    },
+    "SharePost": {
+        "publishAsText": "Veröffentlichen als:",
+        "normalPostText": "Was machst du gerade?"
+    },
+    "Notifications": {
+        "farm_post_commented": "hat deinen Hof-Beitrag kommentiert:",
+        "farm_post_liked": "gefällt dein Hof-Beitrag.",
+        "farm_post_shared": "hat deinen Hof-Beitrag geteilt.",
+        "article_liked": "gefällt dein Artikel.",
+        "user_post_shared": "hat deinen Beitrag geteilt.",
+        "article_shared": "hat deinen Artikel geteilt.",
+        "farmtour_shared": "hat deinen Hofrundgang geteilt.",
+        "farm_title_image_shared": "hat dein Hof Profilbild geteilt.",
+        "user_post_liked": "gefällt dein Beitrag.",
+        "farm_title_image_liked": "gefällt dein Hof Profilbild.",
+        "farmtour_liked": "gefällt dein Hofrundgang.",
+        "user_post_commented": "hat deinen Beitrag kommentiert:"
+    },
+    "News": {
+        "newsHeaderText": "Was Gibt's Neues aus der Welt der Landwirtschaft? Hier halten wir dich auf dem Laufenden!"
+    },
+    "Search": {
+        "typeToSearch": "Tippe, um zu suchen...",
+        "typeSomethingToSearch": "Tippe etwas, um zu suchen...",
+        "nothingFound": "Nichts gefunden",
+        "otherProfiles": "Weitere Profile"
+    },
+    "FindPeople": {
+        "peopleAndFarmsNearYou": "Freunden und Höfe in deiner Nähe folgen"
+    },
+    "Chat": {
+        "newsFrom": "Nachrichten von",
+        "noActiveConversations": "Keine Unterhaltung vorhanden.",
+        "writeAMessage": "Schreib eine Nachricht..."
+    },
+    "UserProfile": {
+        "postsCount": "%{postsCount} Beiträge",
+        "infos": "Informationen"
+    },
+    "Misc": {
+        "findPeople": "Freunden folgen"
+    },
+    "ProfilePicturesEdit": {
+        "changeProfilePicture": "Profilbild ändern",
+        "changeCoverPicture": "Titelbild ändern",
+        "selectProfilePicture": "Profilbild auswählen",
+        "selectCoverPicture": "Titelbild auswählen",
+        "takePhoto": "Foto aufnehmen",
+        "chooseFromLibrary": "Aus deiner Galerie wählen"
+    },
+    "Error": {
+        "error": "Fehler",
+        "pleaseTryAgain": "Versuch es noch einmal",
+        "wrongEmailOrPassword": "falsche Email oder Passwort, bitte versuche es noch einmal"
+    },
+    "Post": {
+        "nobodyHasLikedThisPost": "Like diesen Beitrag als erstes",
+        "nobodyHasSharedThisPost": "Teile diesen Beitrag als erstes",
+        "nobodyHasCommentedOnThisPost": "Kommentiere diesen Beitrag als erstes",
+        "question": "Frage",
+        "help": "Hilfe",
+        "areYouSureYouWantToRemoveThisPost": "Willst du den Beitrag wirklich löschen?",
+        "deletePost": "Beitrag löschen",
+        "cancel": "abbrechen",
+        "postDeleted": "Beitrag gelöscht"
+    },
+    "Farm": {
+        "makeAnInquiry": "Anfrage stellen",
+        "deleteInquiry": "Anfrage löschen"
+    },
+    "FarmMembership": {
+        "delete": "entfernen",
+        "accept": "bestätigen",
+        "reject": "ablehnen"
+    },
+    "FarmCategories": {
+        "dairy": "Milchvieh",
+        "meat_breeding": "Fleischzucht",
+        "sheep_and_goats": "Schafe und Ziegen",
+        "horses": "Pferde",
+        "field": "Acker",
+        "fruit": "Obst",
+        "vegetables": "Gemüse",
+        "wine": "Wein",
+        "pigs": "Schweine",
+        "poultry": "Geflügel",
+        "other": "sonstige"
+    }
+}
